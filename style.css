@@ -1,0 +1,21 @@
+div {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    gap: 0px;
+    border: none;
+    box-sizing: border-box;
+}
+
+    .vermelho {background-color: red;}
+    .azul {background-color: skyblue;}
+    .amarelo {background-color: yellow;}
+    .verde {background-color: green;}
+
+    #canto {
+        border: 3px solid black;
+    }
+
+    #canto:hover{
+        background-color: chartreuse;
+    }
